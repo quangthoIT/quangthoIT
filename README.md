@@ -30,7 +30,7 @@
 
 ---
 <h2 align="center">⚡ Stats ⚡</h2>
-<p align="center" style="margin-bottom: -10px;>
+<p align="center" style="margin-bottom: -10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=quangthoIT&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangthoIT&theme=tokyonight" alt="GitHub Streak" height="200" width="48%"/>
 </p>
