@@ -3,7 +3,7 @@
 </p>
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&color=F7A41D&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+👋;+I'm+QuangTho+!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&color=F7A41D&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+GitHub+👋;+I'm+QuangTho+!" />
 </p>
 
 ---
