@@ -31,10 +31,10 @@
 ---
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangthoIT&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" width="45.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangthoIT&theme=tokyonight" alt="GitHub Streak" height="200" width="48%"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=quangthoIT&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" height="200" width="48%"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=quangthoIT&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" height="200" width="45.5%"/>  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangthoIT&layout=compact&theme=tokyonight" alt="Top Languages" height="200" width="42%x"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=quangthoIT&layout=compact&theme=react&border_radius=10" alt="Top Languages" height="200" width="45%"/>
 </div>
 
 ---
