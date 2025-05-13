@@ -1,5 +1,4 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=quangthoIT&label=visitors&color=blue&style=flat" alt="quangthoIT" />
 </p>
 <!-- Banner -->
 <p align="center">
