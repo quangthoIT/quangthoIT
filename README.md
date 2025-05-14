@@ -1,4 +1,5 @@
 <p align="right">
+  ![Visitor Count](https://komarev.com/ghpvc/?username=quangthoIT&color=blue)
 </p>
 <!-- Banner -->
 <p align="center">
