@@ -1,41 +1,36 @@
-<!-- Visitor Counter -->
+<!-- Visitor Counter & Followers -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=quangthoIT&color=blue" alt="Visitor count" />
+  <img src="https://img.shields.io/github/followers/quangthoIT?label=Followers&style=flat&color=blue" alt="GitHub followers" />
 </p>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&color=F7A41D&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+GitHub+👋;+I'm+QuangTho+!" />
 </p>
 
 ---
-🎯 I am a website and software developer. <br>
-🌍 I come from Binh Dinh, Viet Nam <br>
-🔥 I am passionate about building creative and efficient products. <br>
-📚 I am currently studying at Ho Chi Minh City University of Transport. <br>
-✍️ Outside of work, I enjoy playing sports, gaming, listening to music,... <br>
+<h3 align="center">🎓 Student at UTH | 💻 Frontend Developer | 🤖 Tech Enthusiast</h3>
+🎯 Passionate about crafting modern and user-friendly websites & applications <br>
+🌍 Born and raised in Binh Dinh province (new Gia Lai province), currently living in Ho Chi Minh City <br>
+🔥 Love turning creative ideas into real-world products <br>
+🏫 I am currently studying Information Technology at Ho Chi Minh City University of Transport.<br>
+🎮 Outside of work, I enjoy playing sports, gaming, listening to music,... <br>
 
 ---
 <h2 align="center">🚀 Languages - Frameworks - Tools 🚀</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-34A853?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-215732?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-1C1E26?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,androidstudio,git,github,gmail,linkedin,instagram,discord&perline=10" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,py,nodejs,mysql,postgres,npm,md&perline=12" />
+  </a>
+</p>
+
 
 ---
 <h2 align="center">⚡ Stats ⚡</h2>
