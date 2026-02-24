@@ -42,10 +42,10 @@
 </div>
 
 ---
-<!-- <h2 align="center">📫 Contact 📫</h2>
+<h2 align="center">📫 Contact 📫</h2>
 <p align="center">
   <a href="https://quangthoit.github.io/PortfolioWebsite/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="mailto:nguyenquangtho2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/tho.ngquang04" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/quangtho-ng04" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p> -->
+</p>
