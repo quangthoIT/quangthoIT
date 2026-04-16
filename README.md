@@ -10,12 +10,13 @@
 </p>
 
 ---
-<h3 align="center">🎓 Student at UTH | 💻 Frontend Developer | 🤖 Tech Enthusiast</h3>
-🎯 Passionate about crafting modern and user-friendly websites & applications <br>
-🌍 Born and raised in Binh Dinh province (new Gia Lai province), currently living in Ho Chi Minh City <br>
-🔥 Love turning creative ideas into real-world products <br>
-🏫 I am currently studying Information Technology at Ho Chi Minh City University of Transport.<br>
-🎮 Outside of work, I enjoy playing sports, gaming, listening to music,... <br>
+<h3 align="center">💻 Frontend Developer | 🚀 Fullstack Learner | 🤖 AI-driven Development</h3>
+🎯 Focused on building modern, scalable, and user-friendly web applications <br>
+⚡ Experienced with React.js, TypeScript, and RESTful APIs integration <br>
+🤖 Leveraging AI tools to accelerate development, debugging, and system design <br>
+🧩 Strong problem-solving mindset with focus on performance and clean architecture <br>
+🎓 Bachelor's degree in Information Technology – Ho Chi Minh City University of Transport <br>
+🌱 Always learning, building, and improving through real-world projects <br>
 
 ---
 <h2 align="center">🚀 Languages - Frameworks - Tools 🚀</h2>
